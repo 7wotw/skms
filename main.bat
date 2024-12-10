@@ -26,17 +26,17 @@ goto menu
 
 :win10
 cls
-start wt.bat
+start activators/wt.bat
 goto end
 
 :win11
 cls
-start we.bat
+start activators/we.bat
 goto end
 
 :office
 cls
-start oas.bat
+start activators/oas.bat
 goto end
 
 :end
