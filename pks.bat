@@ -138,3 +138,4 @@ echo [LOG] If Windows still has not been activated, try selecting a different ve
 echo [LOG] Report any errors to the GitHub repo.
 echo [LOG] https://github.com/7wotw/skms
 
+pause
